@@ -12,8 +12,9 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5
+    color: #4d5ae5;
     }
+
 .span-logo-nav{
     color: #2e2f42;
 } 
@@ -34,6 +35,9 @@ body{
 }
 .link:focus{
     color: #404bbf
+}
+.address{
+    color: #434455;
 }
 
 .mail{
@@ -62,10 +66,10 @@ body{
     color: #404bbf;
 }
    
-.section1{
+.section-one{
     background-color: #2e2f42;
 }
-.section-h1{
+.section-h-one{
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -91,7 +95,7 @@ button{
 .button:focus{
     background-color: #404BBF;
 }
-.section-h3{
+.section-h-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -105,10 +109,10 @@ button{
     color: #434455;
 
 }
-.section3{
+.section-three{
     background-color: #F4F4FD;
 }
-.section-h2{
+.section-h-two{
     text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
@@ -117,10 +121,10 @@ button{
     color: #2e2f42;
     text-align: center;
 }
-.section3-li{
+.section-three-li{
     background-color: #FFFFFF;
 }
-.section4-title{
+.section-four-title{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -131,4 +135,8 @@ button{
 
 .footer{
     background-color: #2e2f42;
+}
+.footer > .logo-text{
+    
+
 }
