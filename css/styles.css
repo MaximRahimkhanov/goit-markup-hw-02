@@ -26,7 +26,7 @@ body{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
     
 
 }
@@ -136,7 +136,8 @@ button{
 .footer{
     background-color: #2e2f42;
 }
-.footer > .logo-text{
-    
-
+.footer .logo-text{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
