@@ -28,7 +28,12 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
     }
-
+.link-address{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 .link:hover{
     color: #404bbf
 }
@@ -135,8 +140,12 @@ button{
 .footer{
     background-color: #2e2f42;
 }
-.paragraf-footer{
+:root {
+    --footer-text-color: #F4F4FD;
+}
+
+.paragraf-footer {
     line-height: 1.5;
-    color: #F4F4FD;
+    color: var(--footer-text-color);
     letter-spacing: 0.02em;
 }
