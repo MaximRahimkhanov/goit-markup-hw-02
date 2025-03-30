@@ -34,6 +34,12 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.link-address:hover{
+    color: #404bbf;
+}
+.link-address:focus{
+    color: #404bbf;
+}
 .link:hover{
     color: #404bbf
 }
